@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/fsd_project/fsd_project/movies.html" }
+    { "source": "/", "destination": "movie.html" }
   ]
 }
